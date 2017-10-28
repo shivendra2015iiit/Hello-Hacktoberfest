@@ -3,6 +3,11 @@
 - Bio: Software developer
 - GitHub: [Daniel-GabrielN](https://github.com/Daniel-GabrielN)
 
+#### Name: [Arjun](https://github.com/15bcs021)
+- Place: Birmingham, West Midlands, United Kingdom
+- Bio: Software developer
+- GitHub: [Arjun](https://github.com/15bcs021)
+
 #### Name: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 - Place: Ringus, Rajasthan, India
 - Bio: Software developer
@@ -27,4 +32,3 @@
 - Place: Lviv, Ukraine
 - Bio: Software Engineer(Web development, Machine Learning). Student at Computer Science program(UCU)
 - GitHub: [Andrew Zhuravchak](https://github.com/retsediv)
-
