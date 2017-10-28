@@ -33,6 +33,11 @@
 - Bio: Software Engineer(Web development, Machine Learning). Student at Computer Science program(UCU)
 - GitHub: [Andrew Zhuravchak](https://github.com/retsediv)
 
+#### Name: [Ryan Liu](https://github.com/liu360)
+- Place: Saint Louis, Missouri (USA)
+- Bio: Software Engineer
+- Github: [liu360] (https://github.com/liu360)
+
 #### Name: [Marko Spajic](https://github.com/mare80)
 - Place: Belgrade, Serbia
 - Bio: Software Developer
