@@ -1,7 +1,7 @@
 # Hello-Hacktoberfest
 Contribute here for Hacktoberfest t-shirt.
 
-Update contributors.md
+### Mandatory: Give star to repo.
 
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
@@ -49,8 +49,8 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// AUTHOR: Piyush Sikarwal
+// GITHUB: https://github.com/psikarwal
 
 console.log('Hello, World!');
 ```
