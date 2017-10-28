@@ -1,3 +1,8 @@
+#### Name: [Ifunanya Ukachukwu](https://github.com/iyfe)
+- Place: New Haven, CT, USA
+- Bio: Software developer
+- GitHub: [iyfe](https://github.com/iyfe)
+
 #### Name: [Daniel-Gabriel](https://github.com/Daniel-GabrielN)
 - Place: Birmingham, West Midlands, United Kingdom
 - Bio: Software developer
