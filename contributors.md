@@ -12,3 +12,8 @@
 - Place: texas, USA
 - Bio: Software Engineer
 - GitHub: [Tubelight](https://github.com/tubelight36)
+
+#### Name: [srosebattles](https://github.com/srosebattles)
+- Place: St. Paul, MN, USA
+- Bio: Software Developer
+- GitHub: [srosebattles](https://github.com/srosebattles)
