@@ -38,6 +38,10 @@
 - Bio: Software Engineer
 - Github: [liu360] (https://github.com/liu360)
 
+#### Name: [Amber Johnson](https://github.com/liu360)
+- Place: Fort Collins, CO (USA)
+- Bio: Web Developer
+- Github: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
 #### Name: [Marko Spajic](https://github.com/mare80)
 - Place: Belgrade, Serbia
 - Bio: Software Developer
