@@ -1,7 +1,7 @@
 # Hello-Hacktoberfest
-Contribute here for Hacktoberfest t-shirt.
+Contribute here for Hacktoberfest.
 
-### Mandatory: Give star to repo.
+### Mandatory: Give star to repository.
 
 ### 1. Add your name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
