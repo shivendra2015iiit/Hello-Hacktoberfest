@@ -1,3 +1,7 @@
+// LANGUAGE: C#
+// ENV: .Net
+// AUTHOR: Daniel Gabriel
+// GITHUB: https://github.com/Daniel-GabrielN
 using System;
 					
 public class Program
