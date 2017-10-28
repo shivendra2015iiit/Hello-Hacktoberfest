@@ -18,3 +18,13 @@
 - Bio: Physics Enthusiast
 - GitHub: [shiju_sr](https://github.com/shiju_sr)
 
+#### Name: [srosebattles](https://github.com/srosebattles)
+- Place: St. Paul, MN, USA
+- Bio: Software Developer
+- GitHub: [srosebattles](https://github.com/srosebattles)
+
+#### Name: [Andrew Zhuravchak](https://github.com/retsediv)
+- Place: Lviv, Ukraine
+- Bio: Software Engineer(Web development, Machine Learning). Student at Computer Science program(UCU)
+- GitHub: [Andrew Zhuravchak](https://github.com/retsediv)
+
