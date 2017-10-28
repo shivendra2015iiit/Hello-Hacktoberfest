@@ -13,6 +13,11 @@
 - Bio: Software Engineer
 - GitHub: [Tubelight](https://github.com/tubelight36)
 
+#### Name: [Shiju Prasad](https://github.com/shiju_sr)
+- Place: Kochi, Kerala, India
+- Bio: Physics Enthusiast
+- GitHub: [shiju_sr](https://github.com/shiju_sr)
+
 #### Name: [srosebattles](https://github.com/srosebattles)
 - Place: St. Paul, MN, USA
 - Bio: Software Developer
@@ -22,3 +27,4 @@
 - Place: Lviv, Ukraine
 - Bio: Software Engineer(Web development, Machine Learning). Student at Computer Science program(UCU)
 - GitHub: [Andrew Zhuravchak](https://github.com/retsediv)
+
