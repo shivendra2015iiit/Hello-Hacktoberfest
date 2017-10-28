@@ -32,3 +32,8 @@
 - Place: Lviv, Ukraine
 - Bio: Software Engineer(Web development, Machine Learning). Student at Computer Science program(UCU)
 - GitHub: [Andrew Zhuravchak](https://github.com/retsediv)
+
+#### Name: [Marko Spajic](https://github.com/mare80)
+- Place: Belgrade, Serbia
+- Bio: Software Developer
+- GitHub: [Marko Spajic](https://github.com/mare80)
