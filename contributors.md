@@ -51,3 +51,8 @@
 - Place: Belgrade, Serbia
 - Bio: Software Developer
 - GitHub: [Marko Spajic](https://github.com/mare80)
+
+#### Name: [Elías Puma](https://github.com/ZeroBlazer)
+- Place: Arequipa, Perú
+- Bio: Software Developer
+- GitHub: [ZeroBlazer](https://github.com/ZeroBlazer)
