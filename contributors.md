@@ -47,6 +47,7 @@
 - Place: Fort Collins, CO (USA)
 - Bio: Web Developer
 - Github: [amberjohnsonsmile](https://github.com/amberjohnsonsmile)
+
 #### Name: [Marko Spajic](https://github.com/mare80)
 - Place: Belgrade, Serbia
 - Bio: Software Developer
@@ -56,3 +57,8 @@
 - Place: Arequipa, Perú
 - Bio: Software Developer
 - GitHub: [ZeroBlazer](https://github.com/ZeroBlazer)
+
+#### Name: [Githuber](https://github.com/foreverGithub)
+- Place: texas, USA
+- Bio: Software Engineer
+- GitHub: [Githuber](https://github.com/foreverGithub)
