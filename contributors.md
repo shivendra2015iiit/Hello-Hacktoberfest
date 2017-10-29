@@ -41,7 +41,7 @@
 #### Name: [Ryan Liu](https://github.com/liu360)
 - Place: Saint Louis, Missouri (USA)
 - Bio: Software Engineer
-- Github: [liu360] (https://github.com/liu360)
+- Github: [liu360](https://github.com/liu360)
 
 #### Name: [Amber Johnson](https://github.com/liu360)
 - Place: Fort Collins, CO (USA)
